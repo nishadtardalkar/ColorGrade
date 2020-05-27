@@ -17,13 +17,13 @@ A Tonemapping and Color Correction application
 &nbsp&nbsp When any of the following command is active use mouse vertically to + or - that option.<br>
 <br>
 &nbsp&nbsp Some Refs : (Pressing these keys will activate the respective option)<br>
-<b>1. Scale : s</b>
-&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp   Scales the preview window.
-<b>2. Edit Channel : r | g | b</b>
-&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp   Curve manipulation.
-<b>3. Edit Resolution : Ctrl + r | g | b</b>
-&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp   Changes the resolution of the curve used to modify that channel.
-<b>4. Preview Slider : Esc</b>
-&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp   Stops the active command and returns back to preview slider
-<b>5. Render : q</b>
-&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp   Renders the video sample with currently applied settings of Tonemapping and ColorCorrection
+<b>1. Scale : s</b><br>
+&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp   Scales the preview window.<br>
+<b>2. Edit Channel : r | g | b</b><br>
+&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp   Curve manipulation.<br>
+<b>3. Edit Resolution : Ctrl + r | g | b</b><br>
+&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp   Changes the resolution of the curve used to modify that channel.<br>
+<b>4. Preview Slider : Esc</b><br>
+&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp   Stops the active command and returns back to preview slider.<br>
+<b>5. Render : q</b><br>
+&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp   Renders the video sample with currently applied settings of Tonemapping and ColorCorrection.<br>
