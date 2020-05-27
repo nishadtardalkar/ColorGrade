@@ -1,2 +1,2 @@
 # ColorGrade
-Simple tonemapping and color correction script
+A Tonemapping and Color Correction application
