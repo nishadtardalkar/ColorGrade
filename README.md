@@ -1,4 +1,4 @@
-# ColorGrade
+# Custom Color Grade
 A Tonemapping and Color Correction application
 
 <b>You need :</b>
