@@ -16,7 +16,7 @@ A Tonemapping and Color Correction application
 &nbsp&nbsp When none of the following command is active use mouse to move the slider between original and preview section.<br>
 &nbsp&nbsp When any of the following command is active use mouse vertically to + or - that option.<br>
 <br>
-&nbsp&nbsp Some Refs : (Pressing these keys will activate the respective option)<br>
+&nbsp&nbsp Some Refs : (Pressing these keys will activate the respective option)<br><br>
 <b>1. Scale : s</b><br>
 &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp   Scales the preview window.<br>
 <b>2. Edit Channel : r | g | b</b><br>
