@@ -13,6 +13,7 @@ A Tonemapping and Color Correction application
 
 <br>
 &nbsp&nbsp You have to copy paste full path of the video sample in the main.py script. (Cavemen coding) <br>
+&nbsp&nbsp You can also change tonemapper presets in the tonemapper settings of colorgrade class. (Defaut is set to ACES) <br>
 &nbsp&nbsp When none of the following command is active use mouse to move the slider between original and preview section.<br>
 &nbsp&nbsp When any of the following command is active use mouse vertically to + or - that option.<br>
 <br>
@@ -29,3 +30,11 @@ A Tonemapping and Color Correction application
 &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp   Stops the active command and returns back to preview slider.<br>
 <b>6. Render : q</b><br>
 &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp   Renders the video sample with currently applied settings of Tonemapping and ColorCorrection.<br>
+
+Some previews:
+(GIFs at 10FPS, the preview as well as final rendering speed depends on your GPU)
+
+![FAILED TO LOAD GIF](GIF/1.gif)
+![FAILED TO LOAD GIF](GIF/2.gif)
+![FAILED TO LOAD GIF](GIF/3.gif)
+![FAILED TO LOAD GIF](GIF/4.gif)
